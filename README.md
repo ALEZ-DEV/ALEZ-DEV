@@ -1,6 +1,6 @@
 ### This is a test
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEZ-DEV&theme=tokyonight)
+[![ALEZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALEZ-DEV)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ALEZ-DEV/ALEZ-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
