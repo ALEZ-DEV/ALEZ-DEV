@@ -1,10 +1,10 @@
 ## About me :
 
 ### Very little description
-  > I'm juste a simple programmer, i like program some shit
+  I'm juste a simple programmer, i like program some shit
 
 ### On whate i'm currently working on
-  > I'm currently working on a Video manager, the project is (in bref) an app which can manage, watch, and download video. you will can download video from torrent or other source (if you want). In future (when the app is released), I want to add some plugin manager were you can add your own plugin for more features.
+  I'm currently working on a Video manager, the project is (in bref) an app which can manage, watch, and download video. you will can download video from torrent or other source (if you want). In future (when the app is released), I want to add some plugin manager were you can add your own plugin for more features.
 
 ## Language and Tools :
 
