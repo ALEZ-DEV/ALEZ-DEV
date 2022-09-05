@@ -1,7 +1,7 @@
 ### This is a test
 
 [![ALEZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALEZ-DEV)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ALEZ-DEV&theme=dark)](https://git.io/streak-stats)
 <!--
 **ALEZ-DEV/ALEZ-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
