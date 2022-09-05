@@ -3,10 +3,10 @@
 ### Very little description
   I'm juste a simple programmer, i like program some shit
 
-### On whate i'm currently working on
+### On what i'm currently working on
   I'm currently working on a Video manager, the project is (in bref) an app which can manage, watch, and download video. you will can download video from torrent or other source (if you want). In future (when the app is released), I want to add some plugin manager were you can add your own plugin for more features.
 
-## Language and Tools :
+## Language and Tools I use:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C Sharp" alt="C Sharp" width="40" height="40"/>&nbsp;
