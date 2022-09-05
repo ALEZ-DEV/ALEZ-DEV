@@ -8,7 +8,7 @@
 </div>
 
 ## My stats
-[![ALEZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALEZ-DEV)](https://github.com/anuraghazra/github-readme-stats)
+[![ALEZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALEZ-DEV&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ALEZ-DEV&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEZ-DEV&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
