@@ -1,5 +1,10 @@
-### This is a test
+## current language used
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C Sharp" alt="C Sharp" width="40" height="40"/>&nbsp;
+</div>
+
+## My stats
 [![ALEZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALEZ-DEV)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ALEZ-DEV&theme=dark)](https://git.io/streak-stats)
 <!--
