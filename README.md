@@ -21,6 +21,12 @@ Frontend | Backend |
   <img alt="Most used language" src="" width="700" style="border-radius: 10px">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@ALEZ/84a26b76-27c4-40ab-b7b5-039fe1661ed2.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@ALEZ/14a1c1fe-84b9-4073-8f9f-3a1107ea5bb3.png">
+  <img alt="Most used language" src="" width="700" style="border-radius: 10px">
+</picture>
+
 <!--
 ## Language and Tools I use:
 
