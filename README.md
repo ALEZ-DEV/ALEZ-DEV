@@ -10,6 +10,17 @@ Frontend | Backend |
 ---------|---------|
 ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | ![image](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) |
 ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) |
+
+### There is stats (because having stats is cool)
+
+***
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@ALEZ/17bc312c-2d1e-4777-96ba-bdb38a178259.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@ALEZ/ba6cfe31-48dd-4f09-a085-0c3dd3f3befb.png">
+  <img alt="Most used language" src="" width="700" style="border-radius: 10px">
+</picture>
+
 <!--
 ## Language and Tools I use:
 
@@ -27,16 +38,4 @@ Frontend | Backend |
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="VS Code" alt="VS Code" width="90" height="90"/>&nbsp;
 </div>
 
-**ALEZ-DEV/ALEZ-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
