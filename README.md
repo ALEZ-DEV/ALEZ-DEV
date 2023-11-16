@@ -3,8 +3,22 @@
 ### Very little description
   I'm juste a simple programmer, i like program some shit
 
-### On what i'm currently working on
-  I'm currently working on a Video manager, the project is (in bref) an app which can manage, watch, and download video. you will can download video from torrent or other source (if you want). In future (when the app is released), I want to add some plugin manager were you can add your own plugin for more features.
+### On what I'm currently working on
+
+<table>
+  <tr>
+    <td width="225">
+      <img alt="Anime Kanri logo" src="https://github.com/ALEZ-DEV/Anime-Kanri/blob/main/docs/logo.svg" width="225">
+    </td>
+    <td>
+      <h2>Anime Kanri</h2>
+            <p>I'm currently working on a Video manager, the project is (in bref) an app which can manage, watch, and download video. you will can download video from torrent or other source (if you want). In future (when the app is released), I want to add some plugin manager were you can add your own plugin for more features.</p>
+      <a href="https://github.com/ALEZ-DEV/Anime-Kanri">
+        <p>go to project</p>
+      </a>
+    </td>
+  </tr>
+</table>
 
 Frontend | Backend |
 ---------|---------|
