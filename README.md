@@ -41,21 +41,4 @@ Frontend | Backend |
   <img alt="Most used language" src="" width="700" style="border-radius: 10px">
 </picture>
 
-<!--
-## Language and Tools I use:
-
-### Language
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C Sharp" alt="C Sharp" width="90" height="90"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="90" height="90"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Python" alt="Python" width="90" height="90"/>&nbsp;
-</div>
-
-### Editor
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio 2022" alt="Visual Studio 2022" width="90" height="90"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="90" height="90"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="VS Code" alt="VS Code" width="90" height="90"/>&nbsp;
-</div>
-
 
