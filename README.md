@@ -46,8 +46,7 @@ Frontend | Backend |
 ### If you want to contact me
 
  ***
-[![Discord Presence](https://lanyard.cnrad.dev/api/308222588113387520)](https://discord.com/users/308222588113387520)
-
+ 
 <div align="center">
   <a href="https://discord.com/users/308222588113387520">
     <img src="https://lanyard.cnrad.dev/api/308222588113387520" alt="Discord Presence"/>
