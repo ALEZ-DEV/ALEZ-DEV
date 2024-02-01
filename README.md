@@ -5,6 +5,7 @@
 
 ### On what I'm currently working on
 
+
 <table>
   <tr>
     <td width="225">
@@ -28,7 +29,7 @@ Frontend | Backend |
 ### There is stats (because having stats is cool)
 
 ***
-
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@ALEZ/17bc312c-2d1e-4777-96ba-bdb38a178259.png">
   <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@ALEZ/ba6cfe31-48dd-4f09-a085-0c3dd3f3befb.png">
@@ -40,3 +41,15 @@ Frontend | Backend |
   <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@ALEZ/14a1c1fe-84b9-4073-8f9f-3a1107ea5bb3.png">
   <img alt="Most used language" src="" width="700" style="border-radius: 10px">
 </picture>
+</div>
+
+### If you want to contact me
+
+ ***
+[![Discord Presence](https://lanyard.cnrad.dev/api/308222588113387520)](https://discord.com/users/308222588113387520)
+
+<div align="center">
+  <a href="https://discord.com/users/308222588113387520">
+    <img src="https://lanyard.cnrad.dev/api/308222588113387520" alt="Discord Presence"/>
+  </a>
+</div>
