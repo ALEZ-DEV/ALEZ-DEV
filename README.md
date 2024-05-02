@@ -5,7 +5,12 @@
 
 ### On what I'm currently working on
 
+![Babylonia terminal](https://github-readme-stats.vercel.app/api/pin/?username=ALEZ-DEV&repo=Babylonia-terminal&bg_color=333&text_color=fafafa&title_color=fafafal)
+![Babylonia terminal](https://github-readme-stats.vercel.app/api/pin/?username=ALEZ-DEV&repo=Celica-moe&bg_color=333&text_color=fafafa&title_color=fafafal)
+![Babylonia terminal](https://github-readme-stats.vercel.app/api/pin/?username=ALEZ-DEV&repo=Anime-Kanri&bg_color=333&text_color=fafafa&title_color=fafafal)
+![Babylonia terminal](https://github-readme-stats.vercel.app/api/pin/?username=ALEZ-DEV&repo=Nyaa-rsearch&bg_color=333&text_color=fafafa&title_color=fafafal)
 
+<!--
 <table>
   <tr>
     <td width="225">
@@ -19,7 +24,9 @@
       </a>
     </td>
   </tr>
-</table>
+</table> -->
+
+### Technology I use
 
 Frontend | Backend |
 ---------|---------|
