@@ -29,6 +29,11 @@ Frontend | Backend |
 ### There is stats (because having stats is cool)
 
 ***
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEZ-DEV&size_weight=0.5&count_weight=0.5&bg_color=333&text_color=fafafa&title_color=fafafa&line_height=26" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ALEZ-DEV&show_icons=true&bg_color=333&text_color=fafafa&title_color=fafafa&show=discussions_started,prs_merged,prs_merged_percentage&line_height=27" />
+</p>
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@ALEZ/17bc312c-2d1e-4777-96ba-bdb38a178259.png">
