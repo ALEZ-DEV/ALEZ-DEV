@@ -1,4 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/24e41f4a-f9f1-457f-8aac-ed9ece1510e2.svg)](https://wakatime.com/@24e41f4a-f9f1-457f-8aac-ed9ece1510e2)
+![](https://komarev.com/ghpvc/?username=ALEZ-DEV&color=blue)
 <br>
 ### Very little description
   I'm juste a simple programmer, i like program some shit
