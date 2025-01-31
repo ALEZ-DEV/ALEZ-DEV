@@ -7,11 +7,11 @@
 ### On what I'm currently working on
 
 [![Babylonia terminal](https://github-readme-stats.vercel.app/api/pin/?username=ALEZ-DEV&repo=Babylonia-terminal&bg_color=333&text_color=fafafa&title_color=fafafal)](https://github.com/ALEZ-DEV/Babylonia-terminal)
+<!--
 [![Babylonia terminal](https://github-readme-stats.vercel.app/api/pin/?username=ALEZ-DEV&repo=Celica-moe&bg_color=333&text_color=fafafa&title_color=fafafal)](https://github.com/ALEZ-DEV/Celica-moe)
 [![Babylonia terminal](https://github-readme-stats.vercel.app/api/pin/?username=ALEZ-DEV&repo=Anime-Kanri&bg_color=333&text_color=fafafa&title_color=fafafal)](https://github.com/ALEZ-DEV/Anime-Kanri)
 [![Babylonia terminal](https://github-readme-stats.vercel.app/api/pin/?username=ALEZ-DEV&repo=Nyaa-rsearch&bg_color=333&text_color=fafafa&title_color=fafafal)](https://github.com/ALEZ-DEV/Nyaa-rsearch)
 
-<!--
 <table>
   <tr>
     <td width="225">
@@ -34,6 +34,8 @@ Frontend | Backend |
 ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | ![image](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) |
 ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) |
 
+<!--
+
 ### There is stats (because having stats is cool)
 
 ***
@@ -55,7 +57,7 @@ Frontend | Backend |
   <img alt="Most used language" src="" width="700" style="border-radius: 10px">
 </picture>
 </div>
-
+-->
 ### If you want to contact me
 
  ***
