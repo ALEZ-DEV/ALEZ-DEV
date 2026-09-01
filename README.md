@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=ALEZ-DEV&color=blue)
 <br>
 ### Very little description
-  I'm juste a simple programmer, i like program some shit
+  I'm juste a simple programmer, i like program some random things
 
 ### On what I'm currently working on
 
